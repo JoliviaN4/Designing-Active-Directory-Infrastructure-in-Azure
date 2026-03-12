@@ -24,7 +24,7 @@ remote access, and verifying connectivity between systems.<br />
 <h2>Open Resource Groups in Azure</h2>
 
 <p>
-<img width="1512" height="982" alt="Lab1" src="https://github.com/user-attachments/assets/eb0981c1-57d3-48c8-afcd-79e9a9cf310a" />
+<img width="1512" height="982" alt="Lab1" src="https://github.com/user-attachments/assets/36af3342-6e17-46bd-9f1d-473e7baba7fe" />
 </p>
 <p>
  Step-by-step
@@ -41,7 +41,7 @@ Explanation:
 <br />
 
 <p>
-<img width="1512" height="982" alt="Lab2" src="https://github.com/user-attachments/assets/71c091b3-9eb4-4285-bcc6-8d47fd02520f" />
+<img width="1512" height="982" alt="Lab2" src="https://github.com/user-attachments/assets/55239797-f727-4e73-998f-55116d0ad19b" />
 </p>
 <p>
  Step-by-step
@@ -59,7 +59,7 @@ Explanation:
 <br />
 
 <p>
-<img width="1512" height="982" alt="Lab4" src="https://github.com/user-attachments/assets/580d4a21-5792-4a1f-a289-86e52fd86076" />
+<img width="1512" height="982" alt="Lab4" src="https://github.com/user-attachments/assets/a896cf84-a1c0-49f1-b743-ee076abb921c" />
 </p>
 <p>
 Step-by-step
@@ -79,8 +79,7 @@ Explanation:
 <br />
 
 <p>
-<img width="1512" height="982" alt="Lab5" src="https://github.com/user-attachments/assets/7715365c-32b8-4975-894c-3cb78964e2b1" />
-</p>
+<img width="1512" height="982" alt="Lab5" src="https://github.com/user-attachments/assets/9a1f8302-0947-4b6f-9eac-ef67c879d614" />
 <p>
 Step-by-step
 
@@ -98,7 +97,7 @@ Explanation:
 <br />
 
 <p>
-<img width="1512" height="982" alt="Lab6" src="https://github.com/user-attachments/assets/a2c9319e-8791-486c-a9d1-b8a0d8cd472d" />
+<img width="1512" height="982" alt="Lab6" src="https://github.com/user-attachments/assets/54c07d12-6741-4d63-8e40-4887fb3ef0ce" />
 </p>
 <p>
 Step-by-step
@@ -117,7 +116,7 @@ Explanation:
 <br />
 
 <p>
-<img width="1512" height="982" alt="Lab7" src="https://github.com/user-attachments/assets/fe80454a-0ec8-48dd-95fd-168fd2a32436" />
+<img width="1512" height="982" alt="Lab7" src="https://github.com/user-attachments/assets/101e4773-24e6-43f7-944d-b857841d7bfe" />
 </p>
 <p>
 Step-by-step
@@ -137,7 +136,7 @@ Explanation:
 <br /> 
 
 <p>
-<img width="1512" height="982" alt="Lab12" src="https://github.com/user-attachments/assets/a41e1a42-7148-43a0-a1f1-77680271694a" />
+<img width="1512" height="982" alt="Lab12" src="https://github.com/user-attachments/assets/7d19e742-f66f-4321-bd6b-2bea5dc48323" />
 </p>
 <p>
 Step-by-step
@@ -157,7 +156,7 @@ Explanation:
 <br /> 
 
 <p>
-<img width="1512" height="982" alt="Lab8" src="https://github.com/user-attachments/assets/b8168400-b47a-4b30-aa40-fbd28eb86a90" />
+<img width="1512" height="982" alt="Lab8" src="https://github.com/user-attachments/assets/3445cc72-d890-4b3d-ba6b-84c7d24071d9" />
 </p>
 <p>
 Step-by-step
@@ -175,7 +174,7 @@ Explanation:
 <br />  
 
 <p>
-<img width="1512" height="982" alt="Lab9" src="https://github.com/user-attachments/assets/1562a85b-ed03-4f78-89fb-f8da2fd3b544" />
+<img width="1512" height="982" alt="Lab9" src="https://github.com/user-attachments/assets/8fda5b9d-1710-4884-9f1d-6f48963d5086" />
 </p>
 <p>
 Step-by-step
@@ -194,7 +193,7 @@ Explanation:
 <br />  
 
 <p>
-<img width="1512" height="982" alt="Lab10" src="https://github.com/user-attachments/assets/0fdf0519-320b-4118-89ab-599f1cc60cdd" />
+<img width="1512" height="982" alt="Lab10" src="https://github.com/user-attachments/assets/d4ea39a7-1c08-45fe-bf5a-1b9e13b2503f" />
 </p>
 <p>
 Step-by-step
@@ -214,7 +213,7 @@ Explanation:
 <br />   
 
 <p>
-<img width="1512" height="982" alt="Lab13" src="https://github.com/user-attachments/assets/0aa8ad1e-cb57-466a-ab60-484b65bd180e" />
+<img width="1512" height="982" alt="Lab13" src="https://github.com/user-attachments/assets/0506e0a0-f236-40a7-b858-6e5191fedd34" />
 </p>
 <p>
 Step-by-step
@@ -230,7 +229,7 @@ Explanation:
 <br />  
 
 <p>
-<img width="1512" height="982" alt="Lab14" src="https://github.com/user-attachments/assets/cb3ed845-ef6b-418b-8372-f87d87c6d102" />
+<img width="1512" height="982" alt="Lab14" src="https://github.com/user-attachments/assets/67686dfb-668a-4d11-b359-9a2881ba7472" />
 </p>
 <p>
 Step-by-step
@@ -249,7 +248,7 @@ Explanation:
 <br />  
 
 <p>
-<img width="1512" height="982" alt="Lab16" src="https://github.com/user-attachments/assets/7d2fdd10-f256-46fb-928a-ef6d75c5868d" />
+<img width="1512" height="982" alt="Lab16" src="https://github.com/user-attachments/assets/1c6b44d7-a7f5-42e2-af14-626bd5b40532" />
 </p>
 <p>
 Step-by-step
@@ -266,7 +265,7 @@ Explanation:
 <br />  
 
 <p>
-<img width="1512" height="941" alt="Lab19" src="https://github.com/user-attachments/assets/ce53e12d-15be-4ba9-b1e0-a3a33d7393f1" />
+<img width="1512" height="941" alt="Lab19" src="https://github.com/user-attachments/assets/87a8f4ac-8441-4e6f-8ee4-7428634825cd" />
 </p>
 <p>
 Step-by-step
@@ -283,7 +282,7 @@ Explanation:
 <br />  
 
 <p>
-<img width="1512" height="982" alt="Lab23" src="https://github.com/user-attachments/assets/009eb271-dd46-4f52-8a51-4010fb24a296" />
+<img width="1512" height="941" alt="Lab19" src="https://github.com/user-attachments/assets/da386eda-dc7b-49db-b49d-aa0dabd87769" />
 </p>
 <p>
 Step-by-step
@@ -300,7 +299,7 @@ Explanation:
 <br />  
 
 <p>
-<img width="1512" height="982" alt="Lab24" src="https://github.com/user-attachments/assets/18c44ed7-f859-4d66-a45c-b475205d29e8" />
+<img width="1512" height="982" alt="Lab24" src="https://github.com/user-attachments/assets/078966a3-eeb8-4d37-bd2e-d3f1c57f41ae" />
 </p>
 <p>
 Step-by-step

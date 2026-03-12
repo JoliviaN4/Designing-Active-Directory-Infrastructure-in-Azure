@@ -2,7 +2,7 @@
 <img width="332" height="152" alt="image" src="https://github.com/user-attachments/assets/f5f42311-aa18-4f41-8888-3227883b937a"/>
 </p>
 
-<h1>Azure Virtual Machine Environment Lab</h1>
+<h1>Azure Infrastructure Setup for Active Directory Deployment</h1>
 This lab demonstrates the creation of a Windows Server virtual environment in Microsoft Azure. 
 The environment includes configuring virtual machines, establishing a virtual network, enabling 
 remote access, and verifying connectivity between systems.<br />

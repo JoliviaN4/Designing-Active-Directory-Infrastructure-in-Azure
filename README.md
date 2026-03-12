@@ -251,10 +251,9 @@ Explanation:
 <p>
 Step-by-step
  
-1. Sign in to dc-1 through Remote Desktop
-2. Wait for the Windows Server desktop to load
-3. Confirm that Server Manager opened successfully
-4. Verify the server was ready for further setup
+1. Connect to dc-1 using Remote Desktop Protocol (RDP).
+2. Allow the Windows Server desktop to fully load.
+3. Confirm that Server Manager opened successfully, indicating the server was ready for configuration.
 
 Explanation:
  Server Manager is the main administrative tool used to install server roles and manage Windows Server services.
@@ -285,13 +284,13 @@ Explanation:
 <p>
 Step-by-step
 
-1. Log into Client-1.
-2. Open Windows PowerShell.
+1. Log into Client-1
+2. Open Windows PowerShell
 3. Enter the following command: ping 10.0.0.4
-4. Run the command to test connectivity to the domain controller.
+4. Run the command to test connectivity to the domain controller
  
 Explanation:
- This test checks whether the client machine can communicate with the server over the private network.
+ This test verifies network connectivity between Client-1 and the domain controller (DC-1). Successful ping responses confirm that the client machine can reach the server across the private network.
 
 <h2>Verify Network Connectivity and DNS Settings</h2>
 <br />  
@@ -306,10 +305,10 @@ Step-by-step
 2. Enter the following command: ipconfig /all
 3. Review the network adapter details.
 4. Verify the client IP configuration.
-5. Confirm the DNS server setting pointed to 10.0.0.4.
+5. Confirm the DNS server setting points to 10.0.0.4.
 
 Explanation:
- This final verification confirmed that Client-1 could communicate with dc-1 and that the DNS settings were correctly configured to point to the domain controller. That completed the infrastructure setup required before deploying Active Directory.
+ This final verification confirmed that Client-1 could communicate with dc-1 and that the DNS settings were correctly configured to point to the domain controller. That completes the infrastructure setup required before deploying Active Directory.
  
  <h2>Summary</h2>
  By the end of this phase, the Azure environment was fully prepared for the Active Directory deployment. The resource group and virtual network were created, the domain controller and client virtual machines were deployed, remote access was configured, and connectivity between systems was successfully verified. This completed the foundational infrastructure needed for the next part of the lab.

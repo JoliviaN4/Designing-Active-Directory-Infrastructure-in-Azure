@@ -1,5 +1,5 @@
 <p align="center">
-<img width="332" height="152" alt="image" src="https://github.com/user-attachments/assets/f5f42311-aa18-4f41-8888-3227883b937a"/>
+<img width="410" height="359" alt="Screenshot 2026-03-12 at 5 12 17 PM" src="https://github.com/user-attachments/assets/460d191c-743d-49c6-b91f-c3ae87cb29c0" />
 </p>
 
 <h1>Designing Active Directory Infrastructure in Azure</h1>
@@ -311,4 +311,4 @@ Explanation:
  This final verification confirmed that Client-1 could communicate with dc-1 and that the DNS settings were correctly configured to point to the domain controller. That completes the infrastructure setup required before deploying Active Directory.
  
  <h2>Summary</h2>
- By the end of this phase, the Azure environment was fully prepared for the Active Directory deployment. The resource group and virtual network were created, the domain controller and client virtual machines were deployed, remote access was configured, and connectivity between systems was successfully verified. This completed the foundational infrastructure needed for the next part of the lab.
+At the conclusion of this phase, the Azure environment was fully prepared for the Active Directory deployment. The resource group and virtual network were created, the domain controller and client virtual machines were deployed, remote access was configured, and connectivity between systems was successfully verified. This completed the foundational infrastructure required for the next phase of the lab.

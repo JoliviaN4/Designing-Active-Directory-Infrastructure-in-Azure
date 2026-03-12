@@ -3,9 +3,7 @@
 </p>
 
 <h1>Azure Infrastructure Setup for Active Directory Deployment</h1>
-This lab demonstrates the creation of a Windows Server virtual environment in Microsoft Azure. 
-The environment includes configuring virtual machines, establishing a virtual network, enabling 
-remote access, and verifying connectivity between systems.<br />
+This section of the lab involved building the foundational cloud infrastructure required for an Active Directory environment in Microsoft Azure. The process included creating a resource group, deploying a virtual network, provisioning virtual machines for the domain controller and client, and validating network connectivity to ensure the environment was ready for domain services deployment.<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -152,7 +150,7 @@ Step-by-step
 Explanation:
  This step ensures that the DC-1 domain controller maintains a consistent private IP address, which is critical for reliable DNS services and proper communication within the Active Directory environment.
 
-<h2>Begin Creating the Client-1 VM</h2>
+<h2>Begin Creating the Client VM</h2>
 <br /> 
 
 <p>
@@ -164,8 +162,8 @@ Step-by-step
 1. Start another Create virtual machine process.
 2. Select the Active-Directory-Lab resource group.
 3. Enter the virtual machine name Client-1.
-4. Chose the same region as dc-1.
-5. Reviewed the basic configuration settings.
+4. Chose the same region as dc-1 (Canada Central).
+5. Review the basic configuration settings.
 
 Explanation:
  This machine was created to simulate a workstation that would later connect to and join the domain.

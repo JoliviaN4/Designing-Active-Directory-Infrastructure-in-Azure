@@ -1,5 +1,5 @@
 <p align="center">
-<img width="410" height="359" alt="Screenshot 2026-03-12 at 5 12 17 PM" src="https://github.com/user-attachments/assets/460d191c-743d-49c6-b91f-c3ae87cb29c0" />
+<img width="849" height="436" alt="image" src="https://github.com/user-attachments/assets/9b7bb3b5-b0d5-4419-94a5-4f4f5bd0b8f2" />
 </p>
 
 <h1>Designing Active Directory Infrastructure in Azure</h1>

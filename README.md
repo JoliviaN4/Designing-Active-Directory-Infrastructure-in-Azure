@@ -35,13 +35,11 @@ This section of the lab involves building the foundational cloud infrastructure 
  A resource group is used to organize related Azure resources in one location. Creating it first helps keep all lab components structured and easier to manage.
 
 <h2>Create the Resource Group</h2>
-</p>
 
-<p>
 <img width="1512" height="982" alt="Lab2" src="https://github.com/user-attachments/assets/55239797-f727-4e73-998f-55116d0ad19b" />
 </p>
 <p>
- Step-by-step
+Step-by-step
   
 1. Select the appropriate Azure subscription
 2. Enter the resource group name **Active-Directory-Lab**
@@ -53,9 +51,7 @@ This section of the lab involves building the foundational cloud infrastructure 
  This created a dedicated container for all resources used in the lab, including virtual machines and networking components.
 
 <h2>Create the Virtual Network</h2>
-<br />
 
-<p>
 <img width="1512" height="982" alt="Lab4" src="https://github.com/user-attachments/assets/a896cf84-a1c0-49f1-b743-ee076abb921c" />
 </p>
 <p>
@@ -73,9 +69,7 @@ Step-by-step
  The virtual network allows the domain controller and client machine to communicate privately inside Azure. This is required for domain communication and DNS resolution.
 
 <h2>Begin Creating the Domain Controller VM</h2>
-<br />
 
-<p>
 <img width="1512" height="982" alt="Lab5" src="https://github.com/user-attachments/assets/9a1f8302-0947-4b6f-9eac-ef67c879d614" />
 <p>
 Step-by-step
@@ -91,9 +85,7 @@ Step-by-step
  This virtual machine is created to serve as the main server for the lab. It would later be promoted to a Domain Controller.
 
 <h2>Configure dc-1 Operating System and Credentials</h2>
-<br />
 
-<p>
 <img width="1512" height="982" alt="Lab6" src="https://github.com/user-attachments/assets/54c07d12-6741-4d63-8e40-4887fb3ef0ce" />
 </p>
 <p>
@@ -205,7 +197,7 @@ Step-by-step
 
 1. Return to the Virtual machines page
 2. Verify that dc-1 and Client-1 appeared in the list
-3. Confirm both virtual machines shows a Running status
+3. **Confirm** both virtual machines shows a Running status
 
 **Explanation:**
  This confirms that both systems were deployed successfully and were ready for configuration and testing.
@@ -251,7 +243,7 @@ Step-by-step
 1. Open Windows Defender Firewall with Advanced Security on dc-1.
 2. Review the firewall profile settings.
 3. Adjust the firewall configuration for the lab environment.
-4. Confirm the changes were applied.
+4. **Confirm** the changes were applied.
 
 **Explanation:**
  In a lab environment, firewall settings are sometimes adjusted to make connectivity testing easier between systems.This helps avoid blocked communication during setup and troubleshooting.

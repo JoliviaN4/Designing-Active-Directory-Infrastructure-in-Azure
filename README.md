@@ -30,7 +30,7 @@ This project demonstrates the full lifecycle of building, deploying, automating,
 In the first phase of the project, the Azure environment is prepared to support the Active Directory deployment. A dedicated resource group and virtual network are created, two virtual machines are deployed, and connectivity is verified to ensure the environment is ready for domain services.<br>
  
 <h3>Open Resource Groups in Azure</h3>
-<img width="1461" height="896" alt="Lab1" src="https://github.com/user-attachments/assets/150b6476-9d78-41c7-a006-a33ec3c209b7" />
+<img width="1461" height="896" alt="Lab1" src="https://github.com/user-attachments/assets/c258b933-c00c-4449-a1e8-eecc90e2ed89" />
 
 **Steps:**
 - Open the Azure portal.
@@ -40,7 +40,7 @@ In the first phase of the project, the Azure environment is prepared to support 
 **Explanation:** A resource group is used to organize related Azure resources in one location. Creating it first keeps all lab components structured and easier to manage.
 
 <h3>Create the Resource Group</h3>
-<img width="1512" height="982" alt="Lab2" src="https://github.com/user-attachments/assets/6760973e-4035-42c3-a7ec-f84dc23dd557" />
+<img width="1512" height="982" alt="Lab2" src="https://github.com/user-attachments/assets/ade46f5a-d784-4bcc-8056-739cbdc273e6" />
 
 **Steps:**
 - Select the appropriate Azure subscription.
@@ -52,7 +52,7 @@ In the first phase of the project, the Azure environment is prepared to support 
 **Explanation:** This creates a dedicated container for all resources used in the lab, including virtual machines and networking components.
 
 <h3>Create the Virtual Network</h3>
-<img width="1512" height="982" alt="Lab4" src="https://github.com/user-attachments/assets/43d57fa0-6362-4832-af34-ea0bb25e2552" />
+<img width="1512" height="982" alt="Lab4" src="https://github.com/user-attachments/assets/bfc7ef1a-ff64-4bcf-bcf4-79e8f47abf91" />
 
 **Steps:**
 - Open **Virtual networks** in Azure.

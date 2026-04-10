@@ -370,7 +370,7 @@ After establishing the domain environment, the next phase focuses on automating 
 **Explanation:** This is the proof stage of the automation workflow. It confirms that the accounts are successfully written into Active Directory and stored in the correct Organizational Unit.
 
 <h3>Confirm Successful Login</h3>
-<img width="1512" height="982" alt="LabB16" src="https://github.com/user-attachments/assets/4ddd7768-3f56-446b-897c-226a39f49c1c" />
+<img width="1512" height="982" alt="LabB16" src="https://github.com/user-attachments/assets/f3950e94-fe30-4ebf-8f59-951b620d84f4" />
 
 **Steps:**
 - Log in to the client computer or connect through Remote Desktop.

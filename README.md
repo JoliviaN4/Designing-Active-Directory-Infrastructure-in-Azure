@@ -40,7 +40,7 @@ In the first phase of the project, the Azure environment is prepared to support 
 **Explanation:** A resource group is used to organize related Azure resources in one location. Creating it first keeps all lab components structured and easier to manage.
 
 <h3>Create the Resource Group</h3>
-<img width="1512" height="982" alt="Lab2" src="https://github.com/user-attachments/assets/ade46f5a-d784-4bcc-8056-739cbdc273e6" />
+
 
 **Steps:**
 - Select the appropriate Azure subscription.
